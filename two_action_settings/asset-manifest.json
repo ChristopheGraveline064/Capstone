@@ -1,14 +1,13 @@
 {
-  "main.css": "/jmorandf/two_action_settings/static/css/main.c5dcf35f.chunk.css",
-  "main.js": "/jmorandf/two_action_settings/static/js/main.5ca43b01.chunk.js",
-  "main.js.map": "/jmorandf/two_action_settings/static/js/main.5ca43b01.chunk.js.map",
+  "main.css": "/jmorandf/two_action_settings/static/css/main.769e4534.chunk.css",
+  "main.js": "/jmorandf/two_action_settings/static/js/main.a2df6fc7.chunk.js",
+  "main.js.map": "/jmorandf/two_action_settings/static/js/main.a2df6fc7.chunk.js.map",
   "static/js/1.ccf717e8.chunk.js": "/jmorandf/two_action_settings/static/js/1.ccf717e8.chunk.js",
   "static/js/1.ccf717e8.chunk.js.map": "/jmorandf/two_action_settings/static/js/1.ccf717e8.chunk.js.map",
   "runtime~main.js": "/jmorandf/two_action_settings/static/js/runtime~main.8dfa9083.js",
   "runtime~main.js.map": "/jmorandf/two_action_settings/static/js/runtime~main.8dfa9083.js.map",
-  "static/media/Birdwave.jpg": "/jmorandf/two_action_settings/static/media/Birdwave.78c0b92d.jpg",
-  "static/css/main.c5dcf35f.chunk.css.map": "/jmorandf/two_action_settings/static/css/main.c5dcf35f.chunk.css.map",
+  "static/css/main.769e4534.chunk.css.map": "/jmorandf/two_action_settings/static/css/main.769e4534.chunk.css.map",
   "index.html": "/jmorandf/two_action_settings/index.html",
-  "precache-manifest.ddedbfcf9ee2b0fa5a9cd8429a575f48.js": "/jmorandf/two_action_settings/precache-manifest.ddedbfcf9ee2b0fa5a9cd8429a575f48.js",
+  "precache-manifest.5bd4d071fcd9dc63fad4d33dcec5b19f.js": "/jmorandf/two_action_settings/precache-manifest.5bd4d071fcd9dc63fad4d33dcec5b19f.js",
   "service-worker.js": "/jmorandf/two_action_settings/service-worker.js"
 }
